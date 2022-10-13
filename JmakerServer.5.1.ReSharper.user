@@ -1,0 +1,350 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:KeyCode.cs" caret="0" fromTop="0" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:Logger.cs" caret="0" fromTop="0" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:Mouse.cs" caret="393" fromTop="12" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:PositionsOfControls.cs" caret="99" fromTop="4" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:WinAPIcmd.cs" caret="287" fromTop="6" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:WinAPI.cs" caret="415" fromTop="11" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:Rectangle.cs" caret="93" fromTop="4" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:PositionsManager.cs" caret="0" fromTop="0" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:Keyboard.cs" caret="35" fromTop="0" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:JmakerBot.cs" caret="743" fromTop="0" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:CMessage.cs" caret="687" fromTop="17" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:ServiceConnector.cs" caret="3135" fromTop="31" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:Program.cs" caret="516" fromTop="15" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:Queue.cs" caret="1127" fromTop="15" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="1017" fromTop="23" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:AccountController.cs" caret="5222" fromTop="11" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="2768" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:ServiceConnector.cs" caret="2580" fromTop="24" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:ServiceConnector.cs" caret="2809" fromTop="29" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:ServiceConnector.cs" caret="3055" fromTop="23" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:CMessage.cs" caret="494" fromTop="13" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:CMessage.cs" caret="687" fromTop="17" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="1373" fromTop="21" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="783" fromTop="16" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="949" fromTop="22" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="1223" fromTop="20" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="1206" fromTop="16" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="1237" fromTop="23" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="694" fromTop="8" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="605" fromTop="16" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="544" fromTop="11" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="1107" fromTop="23" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:QueueProcessor.cs" caret="1525" fromTop="23" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="2881" fromTop="26" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="2785" fromTop="25" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="1923" fromTop="11" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="2768" fromTop="28" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="2584" fromTop="26" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="2655" fromTop="28" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="2275" fromTop="24" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:AccountController.cs" caret="5179" fromTop="15" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:AccountController.cs" caret="5799" fromTop="31" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="1117" fromTop="9" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="1361" fromTop="10" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="1643" fromTop="15" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="2273" fromTop="19" />
+      <File id="5E6F48A8-C079-4720-A935-4AD736FB36A4/f:MainForm.cs" caret="1999" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="23" />
+      <Item value="postXMLData`0" priority="3" />
+      <Item value="destURL" priority="0" />
+      <Item value="XmlReader`0" priority="4" />
+      <Item value="while" priority="4" />
+      <Item value="reader" priority="23" />
+      <Item value="XmlNodeType`0" priority="0" />
+      <Item value="if" priority="26" />
+      <Item value="private" priority="10" />
+      <Item value="public" priority="37" />
+      <Item value="List" priority="6" />
+      <Item value="CMessage`0" priority="13" />
+      <Item value="new" priority="31" />
+      <Item value="List&lt;CMessage&gt;" priority="3" />
+      <Item value="CMessage" priority="1" />
+      <Item value="Country" priority="7" />
+      <Item value="Phone" priority="15" />
+      <Item value="destinationUrl" priority="0" />
+      <Item value="bool" priority="11" />
+      <Item value="return" priority="13" />
+      <Item value="true" priority="9" />
+      <Item value="this" priority="8" />
+      <Item value="int" priority="10" />
+      <Item value="xml" priority="14" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="country" priority="5" />
+      <Item value="account" priority="0" />
+      <Item value="void" priority="7" />
+      <Item value="messages" priority="9" />
+      <Item value="null" priority="2" />
+      <Item value="cursor" priority="5" />
+      <Item value="index" priority="0" />
+      <Item value="IsError" priority="3" />
+      <Item value="else" priority="4" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="1" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="Queue`0" priority="1" />
+      <Item value="Queue" priority="0" />
+      <Item value="static" priority="5" />
+      <Item value="ServiceConnector`0" priority="2" />
+      <Item value="Program`0" priority="26" />
+      <Item value="Element" priority="1" />
+      <Item value="Text" priority="2" />
+      <Item value="Status" priority="2" />
+      <Item value="false" priority="16" />
+      <Item value="IsSent" priority="2" />
+      <Item value="var" priority="34" />
+      <Item value="success" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="message" priority="6" />
+      <Item value="responseResult" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="Url" priority="0" />
+      <Item value="AccountController`0" priority="3" />
+      <Item value="AccountController" priority="0" />
+      <Item value="GetAvailableAccounts`0" priority="0" />
+      <Item value="cAccPhone" priority="1" />
+      <Item value="txtServiceUrl" priority="1" />
+      <Item value="txtInstanceName" priority="1" />
+      <Item value="type" priority="0" />
+      <Item value="XmlWriter`0" priority="4" />
+      <Item value="StringBuilder`0" priority="2" />
+      <Item value="StringBuilder" priority="3" />
+      <Item value="XmlWriterSettings`0" priority="4" />
+      <Item value="xws" priority="3" />
+      <Item value="writer" priority="27" />
+      <Item value="XmlElement`0" priority="1" />
+      <Item value="XmlElement" priority="0" />
+      <Item value="Fragment" priority="0" />
+      <Item value="output" priority="4" />
+      <Item value="QueueProcessor`0" priority="3" />
+      <Item value="QueueProcessor" priority="0" />
+      <Item value="IndexOutOfRangeException`0" priority="0" />
+      <Item value="OperationCanceledException`0" priority="0" />
+      <Item value="JmakerServer" priority="0" />
+      <Item value="JmakerBot" priority="1" />
+      <Item value="msg" priority="3" />
+      <Item value="XmlWriterSettings" priority="0" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="enabled" priority="1" />
+      <Item value="readonly" priority="1" />
+      <Item value="sentList" priority="3" />
+      <Item value="failedList" priority="3" />
+      <Item value="listToSend" priority="9" />
+      <Item value="currentMessageSentOK" priority="0" />
+      <Item value="sendStatus" priority="0" />
+      <Item value="Indent" priority="1" />
+      <Item value="defaultCount" priority="0" />
+      <Item value="Encoding" priority="5" />
+      <Item value="EncodingInfo`0" priority="0" />
+      <Item value="Encoding`0" priority="5" />
+      <Item value="UTF8Encoding`0" priority="3" />
+      <Item value="TextWriter`0" priority="0" />
+      <Item value="StreamWriter`0" priority="0" />
+      <Item value="StringWriter`0" priority="0" />
+      <Item value="MemoryStream`0" priority="1" />
+      <Item value="mem" priority="1" />
+      <Item value="mid" priority="1" />
+      <Item value="YesNo" priority="0" />
+      <Item value="Question" priority="0" />
+      <Item value="Yes" priority="0" />
+      <Item value="ThreadExceptionDialog`0" priority="0" />
+      <Item value="NewLineChars" priority="1" />
+      <Item value="f1" priority="1" />
+      <Item value="Thread`0" priority="4" />
+      <Item value="count" priority="0" />
+      <Item value="FullPhone" priority="0" />
+      <Item value="Application`0" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="seconds" priority="0" />
+      <Item value="SleepThread`0" priority="0" />
+      <Item value="tmProcess" priority="2" />
+      <Item value="Logger`0" priority="0" />
+      <Item value="delegate" priority="0" />
+      <Item value="ParameterizedThreadStart" priority="0" />
+      <Item value="ProcessCmdKey`0" priority="1" />
+      <Item value="Process" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="StartInfo" priority="0" />
+      <Item value="ProcessStartInfo`0" priority="0" />
+      <Item value="si" priority="6" />
+      <Item value="AccRoot" priority="1" />
+      <Item value="AccDrive" priority="1" />
+      <Item value="AccUser" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlReader">
+      <Item value="Create`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="Read`0" priority="1" />
+      <Item value="NodeType" priority="2" />
+      <Item value="Name" priority="1" />
+      <Item value="GetAttribute`0" priority="13" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlNodeType">
+      <Item value="Element" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="3" />
+      <Item value="Count" priority="8" />
+      <Item value="ElementAt`1" priority="10" />
+      <Item value="RemoveAt`0" priority="1" />
+      <Item value="Clear`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Indexer" priority="0" />
+      <Item value="Substring`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JmakerServer.CMessage">
+      <Item value="IsSent" priority="5" />
+      <Item value="IsError" priority="2" />
+      <Item value="mid" priority="2" />
+      <Item value="Phone" priority="2" />
+      <Item value="Status" priority="2" />
+      <Item value="Country" priority="0" />
+      <Item value="Text" priority="1" />
+      <Item value="FullPhone" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@JmakerServer.Program">
+      <Item value="queue" priority="13" />
+      <Item value="InstanceName" priority="2" />
+      <Item value="srvcon" priority="2" />
+      <Item value="sc" priority="4" />
+      <Item value="qp" priority="3" />
+      <Item value="ac" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JmakerServer.Queue">
+      <Item value="ResetQueue`0" priority="0" />
+      <Item value="AddMessage`0" priority="0" />
+      <Item value="GetAllMessages`0" priority="0" />
+      <Item value="GetNextMessageID`0" priority="0" />
+      <Item value="GetMessage`0" priority="2" />
+      <Item value="GetMessagesCount`0" priority="3" />
+      <Item value="TimeToSaveResults`0" priority="0" />
+      <Item value="GetSentList`0" priority="0" />
+      <Item value="NextMessage`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JmakerServer.ServiceConnector">
+      <Item value="Url" priority="1" />
+      <Item value="SendLogMessage`0" priority="1" />
+      <Item value="RequestMessages`0" priority="1" />
+      <Item value="SendResults`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlWriter">
+      <Item value="Create`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlWriterSettings">
+      <Item value="Indent" priority="1" />
+      <Item value="ConformanceLevel" priority="0" />
+      <Item value="Encoding" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlWriter">
+      <Item value="WriteElementString`0" priority="2" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="Close`0" priority="2" />
+      <Item value="WriteFullEndElement`0" priority="0" />
+      <Item value="WriteAttributeString`0" priority="8" />
+      <Item value="WriteEndAttribute`0" priority="1" />
+      <Item value="WriteEndElement`0" priority="5" />
+      <Item value="WriteStartElement`0" priority="5" />
+      <Item value="WriteNode`0" priority="0" />
+      <Item value="WriteDocType`0" priority="0" />
+      <Item value="WriteProcessingInstruction`0" priority="0" />
+      <Item value="Settings" priority="0" />
+      <Item value="WriteStartDocument`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.ConformanceLevel">
+      <Item value="Document" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JmakerServer.QueueProcessor">
+      <Item value="ProcessBatch`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JmakerServer.JmakerBot">
+      <Item value="SendMessage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@JmakerServer.QueueProcessor">
+      <Item value="enabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="ToArray`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JmakerServer.AccountController">
+      <Item value="CurrentPhone" priority="0" />
+      <Item value="CloseViber`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="DoEvents`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Enabled" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@JmakerServer.Logger">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Process">
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.ProcessStartInfo">
+      <Item value="EnvironmentVariables" priority="4" />
+      <Item value="FileName" priority="0" />
+      <Item value="UseShellExecute" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
